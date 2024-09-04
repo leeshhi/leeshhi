@@ -8,4 +8,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leteaaDEV&count_private=true&layout=compact&theme=tokyonight" />
 </a>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leteaaDEV)](https://github.com/anuraghazra/github-readme-stats)
