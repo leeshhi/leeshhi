@@ -7,3 +7,5 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leteaaDEV&count_private=true&layout=compact&theme=tokyonight" />
 </a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leteaaDEV)](https://github.com/anuraghazra/github-readme-stats)
